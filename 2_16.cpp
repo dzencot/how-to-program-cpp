@@ -16,4 +16,5 @@ int main() {
 	cout << "Произведение равно: " << x * y << endl;
 	cout << "Разность равна: " << x - y << endl;
 	cout << "Частное равно: " << x / y << endl;
+	return 0;
 }
