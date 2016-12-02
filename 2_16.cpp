@@ -1,4 +1,6 @@
+//урок 2.16
 #include <iostream>
+
 
 using std::cout;
 using std::cin;
