@@ -1,0 +1,7 @@
+#include "analysis.h"
+
+int main() {
+	Analysis application;
+	application.processExamResults();
+	return 0;
+}
